@@ -1,0 +1,7 @@
+tree 7b4a138e34f52948c1bd9520d80c65448dd77dec
+parent aaddd265ca467655b2aaeffbf3511f257139a456
+parent d93e6e544df81a7001782fad58dc72023d84287c
+author Bob Hacker <bob@company.com> 1443564020 +0200
+committer Bob Hacker <bob@company.com> 1443564020 +0200
+
+Merge branch 'master' of https://git.company.com/random
